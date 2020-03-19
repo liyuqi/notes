@@ -107,7 +107,7 @@ symbol: ← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙
 
 ## 4. 推薦安裝套件
 
-套件名稱 | 項目() 
+套件名稱 | 項目(link) 
 --- | ---
 (heyimfuzz.banner-comments) |- [高亮大字區塊](https://marketplace.visualstudio.com/items?itemName=heyimfuzz.banner-comments)
 (grapecity.gc-excelviewer) |- [文檔表格預覽 ](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
