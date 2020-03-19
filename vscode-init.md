@@ -21,7 +21,7 @@ symbol: ← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙
 ## 3. 修改IDE預設檔
 
 ### 3.1 編輯 Keyboard Shortcuts File 
-- 控制快鍵  Ctrl  +  p  輸入  >  Keyboard Shortcuts File 
+- 控制快鍵  `Ctrl`  +  `p` + `> keyboard Shortcuts File`
 
 修改成以下內容
 
@@ -55,7 +55,7 @@ symbol: ← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙
 ]
 ```
 ### 3.2 編輯 User setting
-- 控制設定  Ctrl  +  p  輸入  >  User setting
+- 控制設定  `Ctrl`  +  `p` + `> user setting`
 
 ```js
 {
