@@ -4,15 +4,26 @@
 
 ● remove empty lines
 
-- | Open vsCode.
+0 | Open vsCode
 --- | ---
-- | Mac: `command` + `Option` + `F` (Win:`Ctrl` + `H`)
-- | In the find box type `\n\n`.
-- | In the replace box type `\n`.
-- | [-] 'Use Regular Expression.*' is selected.
+1 | Mac: `command` + `Option` + `F` (Win:`Ctrl` + `H`)
+2 | In the find box type `\n\n`.
+3 | In the replace box type `\n`.
+4 | [v] 'Use Regular Expression`.*`' is selected.
+5 | Replace all
+
 
 ● remove duplicate lines
-- | 
+
+0 | Open vsCode
+--- | ---
+1 | Mac: `command` + `Option` + `F` (Win:`Ctrl` + `H`)
+2 | [v] "Use Regular Expression" `.*`
+3 | In the find box type type `^(.*)(\n\1)+$`
+4 | In the replace box type type `$1`
+5 | Replace All
+
+
 
 ## 1. vscode 下載位置
 https://code.visualstudio.com/Download
