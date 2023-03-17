@@ -1,5 +1,19 @@
 # vscode - windows 版本介紹
 
+## 0. vscode 搜尋取代
+
+● remove empty lines
+
+- | Open vsCode.
+--- | ---
+- | Mac: `command` + `Option` + `F` (Win:`Ctrl` + `H`)
+- | In the find box type `\n\n`.
+- | In the replace box type `\n`.
+- | [-] 'Use Regular Expression.*' is selected.
+
+● remove duplicate lines
+- | 
+
 ## 1. vscode 下載位置
 https://code.visualstudio.com/Download
 
