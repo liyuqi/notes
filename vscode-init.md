@@ -2,6 +2,13 @@
 
 ## 0. vscode 搜尋取代
 
+● select highlights
+
+0 | Open vsCode
+--- | ---
+1 | `Ctrl` + `Shift` + `L` 
+2 | editor.action.selectHighlights
+
 ● remove empty lines
 
 0 | Open vsCode
